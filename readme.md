@@ -7,7 +7,3 @@
 - npm i
 - npm run start
 - Escanear codigo QR con la App de Expo para Android o IOS
-
-## Descargar APK y abrir en un telefono Android
-
-- https://drive.google.com/drive/folders/15vXN7Fy7kAg497WUT8urus2NSinw1ogg?usp=sharing
